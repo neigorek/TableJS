@@ -1,0 +1,39 @@
+#General{
+
+    border: 1px groove black;
+
+}
+
+.jumbotron {
+
+    opacity: 0.5;
+}
+
+.table{
+
+
+
+}
+
+.input{
+
+    color: gray;
+
+}
+
+
+#Table{
+
+
+
+}
+
+.lbl{
+    float: left;
+}
+button{
+    width: 50px;
+    height: 50px;
+    float: right;
+    align-content: center;
+}
